@@ -2,7 +2,7 @@
 
 Import the Ant_Simulator_Unitypackage in a new Unity 2D project.
 <br/>
-Source codes are in /Assets/Script
+Source codes are in /Assets/Script after import.
 
 # How to play #
 
