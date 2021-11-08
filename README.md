@@ -1,6 +1,6 @@
 # How to import the program #
 
-Import the folder with UnityHub and run Unity Editor.
+Import the Ant_Simulator_Unitypackage in a new Unity 2D project.
 <br/>
 Source codes are in /Assets/Script
 
@@ -10,3 +10,5 @@ Source codes are in /Assets/Script
 - Press the "Reload" button to reload the scene.
 - Press the "Quit" button to quit the program.
 - Press and hold mouse over the ground to place food.
+
+There is a release available.
