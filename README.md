@@ -6,7 +6,7 @@ Source codes are in /Assets/Script after import.
 
 # How to play #
 
-- Press the "Release 100" button at the upper-right corner to release 100 ants. You can click it multiple times to release more but it costs more computing resources.
+- Press the "Release 100" button at the bottom-right corner to release 100 ants. You can click it multiple times to release more but it costs more computing resources as well.
 - Press the "Reload" button to reload the scene.
 - Press the "Quit" button to quit the program.
 - Press and hold mouse over the ground to place food.
